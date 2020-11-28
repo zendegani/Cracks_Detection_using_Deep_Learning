@@ -8,7 +8,7 @@ Manual inspection can also be difficult to perform in case of high rise building
 Furthermore, we test the model on real world data and see that the model is accurate in detecting surface cracks in concrete and non concrete structures example roads. 
 
 Todo:
-[] Add Sequential rather than one model to the last layer of pre-trained ResNet18
+- [ ] Add Sequential rather than one model to the last layer of pre-trained ResNet18
 [] Add transformation, e.g. RandomResizedCrop, CenterCrop, RandomRotation, RandomHorizontalFlip, RandomVerticalFlip, ColorJitter.
 [] Add dropouts.
 [] Test on images that are randomly found on internet.
