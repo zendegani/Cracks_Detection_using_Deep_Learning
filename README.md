@@ -1,5 +1,8 @@
-# Detection of Surface Cracks using Deep Learning
-Detection of Surface Cracks in Concrete Structures using Deep Learning
+# Detection of Surface Cracks in Concrete Structures using Deep Learning
+
+<p align="center">
+  <img src="https://www.mdpi.com/sensors/sensors-18-03452/article_deploy/html/images/sensors-18-03452-g001.png" alt="Approach" width="700" />
+</p>
 
 Detection of surface cracks is an important task in monitoring the structural health of concrete structures. 
 If cracks develop and continue to propogate, they reduce the effective load bearing surface area and can over time cause failure of the structure. 
